@@ -1,0 +1,1 @@
+CREATE TABLE data_user.users ( id text PRIMARY KEY,  name text);

@@ -1,0 +1,6 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: data_user
+      contact-points: ${CASSANDRA_HOST}
+      port: ${CASSANDRA_PORT}
