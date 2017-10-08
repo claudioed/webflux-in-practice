@@ -1,7 +1,7 @@
-package claudioed.tech.webflux.service;
+package claudioed.tech.webflux.domain.service;
 
 import claudioed.tech.webflux.domain.User;
-import claudioed.tech.webflux.repository.UserRepository;
+import claudioed.tech.webflux.domain.repository.UserRepository;
 import lombok.NonNull;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;

@@ -1,7 +1,7 @@
-package claudioed.tech.webflux.resource;
+package claudioed.tech.webflux.domain.resource;
 
 import claudioed.tech.webflux.domain.User;
-import claudioed.tech.webflux.service.UserService;
+import claudioed.tech.webflux.domain.service.UserService;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

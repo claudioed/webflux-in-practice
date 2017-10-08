@@ -1,4 +1,4 @@
-package claudioed.tech.webflux.repository;
+package claudioed.tech.webflux.domain.repository;
 
 import claudioed.tech.webflux.domain.User;
 import org.springframework.data.cassandra.repository.ReactiveCassandraRepository;
